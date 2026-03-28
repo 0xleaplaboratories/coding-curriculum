@@ -1,6 +1,6 @@
 # Coding and Algorithm Mastery for Kids
 
-**Composed by:** Leap Laboratories Academic Team<br>
+**Composed by:** Leap Laboratories Academic Team
 _Designed based on the Leap Laboratories Curriculum._
 
 ---
